@@ -293,11 +293,12 @@
             "name": "Airbus a320neo",
             "liveries": [
               {   
-                   "name": "EuroStar "
+                   "name": "EuroStar",
                    "texture": [
                          "https://i.ibb.co/4nb4dbGK/Eurowings.png"
-                   ]
-}
+                   ],
+               "credits": "Lewis & Tornado"
+            }
             ],
             "labels": [
                 "Texture"
