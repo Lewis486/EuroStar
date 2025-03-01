@@ -434,6 +434,13 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+        {   
+                   "name": "EuroStar",
+                   "texture": [
+                         "https://i.ibb.co/G3kQ0kvF/new.png"
+                   ],
+               "credits": "Airbus And Ferrari Fan (QFA130)"
+            }
             ],
             "labels": [
                 "Texture"
@@ -458,6 +465,13 @@
         "4743": {
             "name": "Boeing b757-300",
             "liveries": [
+               {   
+                   "name": "EuroStar",
+                   "texture": [
+                         "https://i.ibb.co/Df5yK4qp/eurostar-757-300-1-1.png"
+                   ],
+               "credits": "Airbus And Ferrari Fan (QFA130)"
+            }
             ],
             "labels": [
                 "Texture"
